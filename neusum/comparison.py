@@ -1,3 +1,4 @@
+## Баленко Д.А ИБ/б-21-1-о 10.10.2022
 from neusum.evaluation.rouge_with_pythonrouge import RougeStrEvaluation
 import os
 
